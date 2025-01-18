@@ -1,6 +1,10 @@
 Class calculator
 {
-Public static void main(tsring args[])
+public int sub(int a,int b)
+{
+return a-b;
+}
+Public static void main(string args[])
 {
 }
 }

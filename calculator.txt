@@ -1,0 +1,6 @@
+Class calculator
+{
+Public static void main(tsring args[])
+{
+}
+}

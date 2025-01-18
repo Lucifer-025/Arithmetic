@@ -1,5 +1,9 @@
 Class calculator
 {
+public int add{int a,int b)
+{
+return a+b;
+}
 Public static void main(tsring args[])
 {
 }
